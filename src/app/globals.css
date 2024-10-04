@@ -25,3 +25,21 @@ body {
     text-wrap: balance;
   }
 }
+.btn {
+  padding: 0.5rem 1rem;
+  background-color: black;
+  color: white;
+  border-radius: 0.25rem;
+  margin-right: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background-color: gray;
+}
+
+/* Set the height of the footer */
+footer {
+  height: 50px; /* Adjust the height as needed */
+}
